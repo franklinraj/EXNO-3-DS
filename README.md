@@ -31,8 +31,28 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+![alt text](<Screenshot 2025-04-09 172946.png>)
+![alt text](<Screenshot 2025-04-09 172956.png>)
+![alt text](<Screenshot 2025-04-09 173020.png>)
+![alt text](<Screenshot 2025-04-09 173030.png>)
+![alt text](<Screenshot 2025-04-09 173037.png>)
+![alt text](<Screenshot 2025-04-09 173044.png>)
+![alt text](<Screenshot 2025-04-09 173053.png>)
+![alt text](<Screenshot 2025-04-09 173101.png>)
+![alt text](<Screenshot 2025-04-09 173110.png>)
+![alt text](<Screenshot 2025-04-09 173125.png>)
+![alt text](<Screenshot 2025-04-09 173140.png>)
+![alt text](<Screenshot 2025-04-09 173149.png>)
+![alt text](<Screenshot 2025-04-09 173211.png>)
+![alt text](<Screenshot 2025-04-09 173224.png>)
+![alt text](<Screenshot 2025-04-09 173235.png>)
+![alt text](<Screenshot 2025-04-09 173245.png>)
+![alt text](<Screenshot 2025-04-09 173257.png>)
+![alt text](<Screenshot 2025-04-09 173311.png>)
+![alt text](<Screenshot 2025-04-09 173326.png>)
+![alt text](<Screenshot 2025-04-09 173347.png>)
+![alt text](<Screenshot 2025-04-09 173358.png>)
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+      CODE HAS BEEN EXECUTED AND OUTPUT WAS GIVEN SUCCESFULLY..
 
        
