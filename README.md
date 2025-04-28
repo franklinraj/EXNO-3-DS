@@ -53,6 +53,7 @@ We use this categorical data encoding technique when the features are nominal(do
 ![alt text](<Screenshot 2025-04-09 173347.png>)
 ![alt text](<Screenshot 2025-04-09 173358.png>)
 # RESULT:
+
       CODE HAS BEEN EXECUTED AND OUTPUT WAS GIVEN SUCCESFULLY..
 
        
